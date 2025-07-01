@@ -9,9 +9,9 @@ Este projeto frontend depende totalmente da nossa API backend. Certifique-se de 
 
 ## 📸 Screenshots
 
-*Tela de Login da aplicação Streamlit*
+![Tela de Login da aplicação Streamlit](./images/login.png)
 
-*Dashboard Principal da aplicação Streamlit*
+![Dashboard Principal da aplicação Streamlit](./images/dashboard.png)
 
 ## ✨ Funcionalidades Principais
 
@@ -88,7 +88,6 @@ streamlit_flix_api/
 └── requirements.txt    # Dependências do projeto
 
 ```
-
 
 ## 🤝 Contribuindo
 
